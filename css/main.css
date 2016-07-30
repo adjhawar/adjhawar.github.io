@@ -3,7 +3,7 @@ body {
     width: 70%;
     background-image:url("forex.jpg");
     background-size:cover;
-    color:white;
+    color:black;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
